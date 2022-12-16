@@ -1,0 +1,57 @@
+// 20221216195233
+// https://raw.githubusercontent.com/plug-ins-pro/rich_text_editor_pro/master/apexplugin.json
+
+{
+  "name": "Sweet Alert2 Pro",
+  "version": "22.1",
+  "description": "An Oracle APEX dynamic action plug-in built on top of the SweetAlert2.js library. SweetAlert2 Pro can be used with various themes and options to improve the user experience and consistency of alert and confirm messages.",
+  "keywords": [
+    "Alert",
+    "Confirm",
+    "Messages"
+  ],
+  "homepage": "https://www.plug-ins-pro.com/",
+  "bugs": {
+    "url": "https://github.com/plug-ins-pro/SweetAlert2-Pro/issues",
+    "email": "support@plug-ins-pro.com"
+  },
+  "license": "Commercial",
+  "commercial": "Yes",
+  "author": {
+    "name": "United Codes",
+    "email": "info@plug-ins-pro.com",
+    "url": "https://www.united-codes.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plug-ins-pro/SweetAlert2-Pro"
+  },
+  "oracle": {
+    "versions": [
+      "12.x",
+      "18.x",
+      "19.x",
+      "21.x"
+    ],
+    "apex": {
+      "versions": [
+        "18.1.0",
+        "18.2.0",
+        "19.1.0",
+        "19.2.0",
+        "20.1.0",
+        "20.2.0",
+        "21.1.0",
+        "21.2.0",
+        "22.1.0",
+        "22.2.0"
+      ],
+      "plugin": {
+        "internalName": "UNITEDCODES_SWEETALERT2",
+        "type": "dynamic_action",
+        "demo": "https://www.plug-ins-pro.com/ords/r/pluginspro_web/sweetalert2_pro/home",
+        "previewImage": "https://www.plug-ins-pro.com/ords/r/pluginspro_web/686/files/static/v6/img/Swal2Preview.gif"
+      }
+    }
+  }
+}
