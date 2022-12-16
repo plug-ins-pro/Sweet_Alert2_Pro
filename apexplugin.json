@@ -48,7 +48,7 @@
       ],
       "plugin": {
         "internalName": "UNITEDCODES_SWEETALERT2",
-        "type": "dynamic_action",
+        "type": "dynamic action",
         "demo": "https://www.plug-ins-pro.com/ords/r/pluginspro_web/sweetalert2_pro/home",
         "previewImage": "https://www.plug-ins-pro.com/ords/r/pluginspro_web/686/files/static/v6/img/Swal2Preview.gif"
       }
